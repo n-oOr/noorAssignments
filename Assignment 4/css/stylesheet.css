@@ -1,0 +1,11 @@
+.container{
+	width: 960px;
+}
+.d-none{
+	color: grey;
+}
+.shadow-sm{
+	width: 80%;
+	height: 300px;
+	border-radius: 21px 21px 0 0;
+}

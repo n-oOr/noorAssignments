@@ -1,0 +1,21 @@
+body{
+	padding-bottom: 40px;
+}
+.carousel{
+	margin-bottom: 100px;
+}
+.carousel-item{
+	height: 500px;
+}
+.rounded-circle{
+	height: 140px;
+	width: 140px;
+}
+.horizontal-break{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.featurette-img{
+	height: 500px;
+	width: 500px;
+}
